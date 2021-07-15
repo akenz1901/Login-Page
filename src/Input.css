@@ -1,0 +1,14 @@
+.signin{
+    display: table;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+#fname{
+    height: 27px;
+    border-radius: 4px;
+    margin-top: 4px;
+}
+label{
+    padding-right: 3.4cm;
+    font-size: 10px;
+}
