@@ -1,0 +1,13 @@
+.submit_button{
+    margin-top: 10px;
+  }
+.main_buttons{
+    border-radius: 4px;
+    height: 1cm;
+    width: scm;
+  }
+.btn{
+  cursor: pointer;
+  border: 2px thin red;
+  
+}
