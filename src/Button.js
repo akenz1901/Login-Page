@@ -7,9 +7,13 @@ const Button = (props) =>{
         color: props.color,
         backgroundColor:props.backgroundColor,
         border: `1px solid ${props.border}`,
-        height: props.height
-        // height = props.height,
-        // width = props.width,
+        height: props.height,
+        width: props.width,
+        fontSize: props.fontSize,
+        display: props.display,
+        border: props.border,
+        marginLeft: props.marginLeft,
+        marginRight: props.marginRight
         // boxRadius = props.boxRadius,
         // display = 'block',
         // fontSize = '15px',
